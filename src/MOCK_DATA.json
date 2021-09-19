@@ -1,0 +1,78 @@
+[{
+        "id": 1,
+        "photo": "https://cdn11.bigcommerce.com/s-k11cg5mzh9/images/stencil/500x659/products/272/10305/9aeab02e46aa417330f7212c1894607ba714d8487ea418a27938c2bddaa053b9__03554.1629614165.png?c=2",
+        "title": "Dime® True Wireless Earbuds",
+        "price": "19.99",
+        "oldprice": "$24.99"
+    },
+    {
+        "id": 2,
+        "photo": "https://cdn11.bigcommerce.com/s-k11cg5mzh9/images/stencil/500x659/products/273/10145/f69a9c859292511464698fa0b0013810009908e8bdba7aed442cba1d804e545b__80787.1629614075.png?c=2",
+        "title": "Indy™ Noise Canceling Wireless Earbuds",
+        "price": "19.99",
+        "oldprice": "$54.99"
+    },
+    {
+        "id": 3,
+        "photo": "https://cdn.discordapp.com/attachments/838776505789579354/879375818327998524/output-onlinepngtools.png",
+        "title": "Hannah Eddy Sesh® Evo Wireless Earbuds",
+        "price": "49.99"
+    },
+    {
+        "id": 4,
+        "photo": "https://cdn11.bigcommerce.com/s-k11cg5mzh9/images/stencil/500x659/products/279/9885/fcea7554a5f20afd6dfc109cd8e12fcfdcebce9c9b923472f793c0a5aecd6bbb__47795.1629819212.png?c=2",
+        "title": "Indy™ Fuel True Wireless Earbuds",
+        "price": "99.99"
+    },
+    {
+        "id": 5,
+        "photo": "https://cdn11.bigcommerce.com/s-k11cg5mzh9/images/stencil/500x659/products/244/10166/9b2bdc5cf01b3ceac4790d10d15dd270c9678167f8cd0e55f24934accf5dc4f6__12018.1629613498.png?c=2",
+        "title": "Push™ Ultra True Wireless Earbuds",
+        "price": "49.99",
+        "oldprice": "$150.99"
+    },
+    {
+        "id": 6,
+        "photo": "https://cdn.discordapp.com/attachments/816434153938878525/880078254650818620/output-onlinepngtools_1.png",
+        "title": "Method® Active Wireless Sport Earbuds",
+        "price": "99.99"
+    },
+    {
+        "id": 7,
+        "photo": "https://cdn.discordapp.com/attachments/816434153938878525/880096275389890591/6293eb73695b5cd5073a66408f5915728989b8c71ed32abf72bf0d85c4486dad__34527.1629613800.png",
+        "title": "Collina Strada Indy™ Evo True Wireless Earbuds",
+        "price": "79.99"
+    },
+    {
+        "id": 8,
+        "photo": "https://cdn.discordapp.com/attachments/816434153938878525/880079282746060820/output-onlinepngtools_3.png",
+        "title": "Spoke™ True Wireless Earbuds",
+        "price": "39.99",
+        "oldprice": "$125.99"
+    },
+    {
+        "id": 9,
+        "photo": "https://cdn.discordapp.com/attachments/816434153938878525/880085926183837746/earbuds10.png",
+        "title": "TWLOHA Sesh® Evo True Wireless Earbuds",
+        "price": "19.99"
+    },
+    {
+        "id": 10,
+        "photo": "https://cdn11.bigcommerce.com/s-k11cg5mzh9/images/stencil/500x659/products/244/10166/9b2bdc5cf01b3ceac4790d10d15dd270c9678167f8cd0e55f24934accf5dc4f6__12018.1629613498.png?c=2",
+        "title": "Jib™ True Wireless Earbuds",
+        "price": "29.99",
+        "oldprice": "$89.99"
+    },
+    {
+        "id": 11,
+        "photo": "https://cdn11.bigcommerce.com/s-k11cg5mzh9/images/stencil/500x659/products/273/10145/f69a9c859292511464698fa0b0013810009908e8bdba7aed442cba1d804e545b__80787.1629614075.png?c=2",
+        "title": "Jib+ Active Wireless Earbuds",
+        "price": "19.99"
+    },
+    {
+        "id": 12,
+        "photo": "https://cdn.discordapp.com/attachments/816434153938878525/880078254650818620/output-onlinepngtools_1.png",
+        "title": "Kyuss King Sesh® Evo True Wireless Earbuds",
+        "price": "99.99"
+    }
+]

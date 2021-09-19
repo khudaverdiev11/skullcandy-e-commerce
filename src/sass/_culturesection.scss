@@ -1,0 +1,24 @@
+.container-fluid{
+    position: relative;
+    .contenttext{
+        color: white;
+        position: absolute;
+        top: 30%;
+        left: 0%;
+        right: 0%;
+        text-align: center;
+        .sectionhead{
+            font-weight: 700;
+            
+        }
+        .sectionparagraph{
+            font-size: 1.2rem;
+        }
+    }
+}
+
+@media screen and (min-width:992px){
+    .container-fluid .contenttext .sectionhead{
+        font-size: 3.2rem;
+    }
+}

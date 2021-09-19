@@ -1,0 +1,105 @@
+.container{
+    max-width: 1366px !important;
+    .row{
+        display: flex;
+        flex-wrap: wrap;
+        .firstcol{
+            flex: 1 1 72.4%;
+            padding: 0;
+            position: relative;
+            .firstphoto{
+                width: 100%;
+                height: auto;
+            }
+            .firstphotocontent{
+                width: 25rem;
+                color: white;
+                position: absolute;
+                top: 20%;
+                left: 0;
+                right: 0;
+                transform: translateX(20%);
+                .photo1head{
+                    font-weight: 700;
+                }
+                .photo1paragraph{
+                    font-size: 1.2rem;
+                    line-height: 1.3rem;
+                    padding-bottom: 1rem;
+                }
+                .photo1button{
+                    color: black;
+                    padding: 1rem 3rem ;
+                    background-color: white;
+                    text-decoration: none;
+                }
+            }
+        }
+        .secondcol{
+            flex: 1 1 26.95%;
+            position: relative;
+            padding: 0;
+            .secondphoto, .thirdphoto{
+                width: 100%;
+                height: auto;
+            }
+            .secondphotocontent{
+                position: absolute;
+                top: 5%;
+                left: 0%;
+                right: 0%;
+                text-align: center;
+                .photo2head{
+                    color: white;
+                    
+                }
+                .photo2content{
+                    color: white;
+                    font-size: 1.2rem;
+                    font-weight: 600;
+                }
+            }
+            .thirdphotocontent{
+                position: absolute;
+                top: 55%;
+                left: 0%;
+                right: 0%;
+                text-align: center;
+                color: #fff;
+                .photo3content{
+                    font-size: 1rem;
+                    font-weight: 600;
+                    color: #fff;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width:576px) {
+    .row{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width:642px) {
+    .row .firstcol .firstphotocontent{
+        width: 20rem !important;
+    }
+}
+
+
+@media only screen and (max-width:400px) {
+    .row .firstcol .firstphotocontent{
+        width: 18rem !important;
+        .photo1paragraph{
+            font-size: 1rem !important;
+            line-height: 1.1rem !important;
+            padding-bottom: 1rem !important;
+        }
+        .photo1button{
+            padding: 1rem 2rem !important;
+        }
+    }
+}

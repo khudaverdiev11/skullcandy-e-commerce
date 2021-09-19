@@ -1,0 +1,33 @@
+.row{
+    background-color: black;
+    .office{
+        padding-left: 0;
+        padding-right: 0;
+        img{
+            width: 100%;
+            height: auto;
+        }
+    }
+    .text{
+        padding-right: 0;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .officetext{
+            font-size: 1.2rem;
+        }
+    }
+}
+.text-center{
+    background-color: black;
+}
+.icons{
+    background-color: rgb(14, 13, 13);
+    .text-center .card-title{
+        color: white;
+        p{
+            font-size: 1rem;
+        }
+    }
+}

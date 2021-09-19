@@ -1,0 +1,77 @@
+h3 {
+    color: white;
+    font-family: sans-serif;
+    padding-bottom: 20px;
+}
+
+.middle {
+    width: 100%;
+    padding-top: 25px;
+    padding-bottom: 75px;
+    text-align: center;
+    align-items: center;
+    background-color: #0e0d0d;
+    .btn {
+        width: 70px;
+        height: 70px;
+        background-color: #221f1f;
+        margin: 10px;
+        border-radius: 100%;
+        box-shadow: 0 20px 20px 0 #00000070;
+        padding: 0;
+        color: #3498db;
+        overflow: hidden;
+        position: relative;
+        i {
+            line-height: 70px;
+            font-size: 26px;
+            transition: 0.2 linear;
+        }
+    }
+    .btn:hover i {
+        transform: scale(1.3);
+        color: #f1f1f1;
+    }
+    .btn::before {
+        content: "";
+        position: absolute;
+        width: 120%;
+        height: 120%;
+        background-color: #3498db;
+        transform: rotate(45deg);
+        left: -110%;
+        top: 90%;
+    }
+    .btn:hover::before {
+        animation: aaa 0.7s 1;
+        top: -10%;
+        left: -10%;
+    }
+    .youtube:hover::before {
+        background: red;
+    }
+    .facebook:hover::before {
+        background: #3b5999;
+    }
+    .instagram:hover::before {
+        background: #e4405f;
+    }
+    .google:hover::before {
+        background: #dd4b39;
+    }
+}
+
+@keyframes aaa {
+    0% {
+        left: -110%;
+        top: 90%;
+    }
+    50% {
+        left: 10%;
+        top: -30%
+    }
+    100% {
+        top: -10%;
+        left: -10%;
+    }
+}

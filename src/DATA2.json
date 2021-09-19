@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "photo": "https://cdn.discordapp.com/attachments/816434153938878525/880216969662566450/headphone3.png",
+        "title": "Crusher ANC® Noise Canceling Headphones",
+        "price": "199.99",
+        "oldprice": "$319.99"
+    },
+    {
+        "id": 2,
+        "photo": "https://cdn.discordapp.com/attachments/816434153938878525/880216971227037696/headphone4.png",
+        "title": "Crusher® Evo Sensory Bass Headphones",
+        "price": "149.99",
+        "oldprice": "$199.99"
+    },
+    {
+        "id": 3,
+        "photo": "https://cdn.discordapp.com/attachments/816434153938878525/880216972313391164/headphone5.png",
+        "title": "Hannah Eddy Sesh® Evo Wireless Headphones",
+        "price": "109.99"
+    },
+    {
+        "id": 4,
+        "photo": "https://cdn.discordapp.com/attachments/816434153938878525/880216972695044156/headphone6.png",
+        "title": "Hesh® ANC Noise Canceling Headphones",
+        "price": "99.99",
+        "oldprice": "$129.99"
+    },
+    {
+        "id": 5,
+        "photo": "https://cdn.discordapp.com/attachments/816434153938878525/880217014721994762/headphone9.png",
+        "title": "Hesh® Evo Wireless Headphones",
+        "price": "49.99",
+        "oldprice": "$150.99"
+    },
+    {
+        "id": 6,
+        "photo": "https://cdn.discordapp.com/attachments/816434153938878525/880216967120822332/Headphone1_3.png",
+        "title": "TWLOHA Hesh® Evo Wireless Headphones",
+        "price": "59.99",
+        "oldprice": "$109.99"
+    },
+    {
+        "id": 7,
+        "photo": "https://cdn.discordapp.com/attachments/816434153938878525/880216966177116170/headphone8.png", 
+        "title": "Nolan Cooley Hesh® Evo Wireless Headphones",
+        "price": "79.99",
+        "oldprice": "$139.99"
+    },
+    {
+        "id": 8,
+        "photo": "https://cdn.discordapp.com/attachments/816434153938878525/880216968555278336/headphone2.png",
+        "title": "Kyuss King Hesh® Evo Wireless Headphones",
+        "price": "39.99",
+        "oldprice": "$125.99"
+    },
+    {
+        "id": 9,
+        "photo": "https://cdn.discordapp.com/attachments/816434153938878525/880216961852801054/headphone7.png",
+        "title": "Riff Wireless On-Ear Headphone",
+        "price": "$19.99"
+    }
+]

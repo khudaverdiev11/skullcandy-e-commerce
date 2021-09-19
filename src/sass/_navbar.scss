@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+.navbar{
+    background-color: #000000;
+    .container{
+        max-width: 1366px;
+        margin: 0 50px;
+        .navbar-toggler{
+            .fa-bars{
+                color: white !important;
+            }
+        }
+        form{
+            ul{
+                p{
+                    padding: 0;
+                    margin: 0;
+                    color: white;
+                    font-family: 'Montserrat', sans-serif;
+                    font-size: 16px;
+                }
+            }
+            i{
+                color: white;
+                font-weight: 600;
+                font-size: 18px;
+                span{
+                    font-size: 1rem;
+                    font-family: 'Montserrat', sans-serif;
+                }
+            }
+            .fa-shopping-bag{
+                border: 1px solid #2d2d2d;
+                border-radius: 10px;
+            }
+        }
+        .navbar-collapse{
+            .navbar-nav{
+                .nav-item{
+                    .nav-link{
+                        color: white;
+                        font-family: 'Montserrat', sans-serif;
+                        font-size: 16px;
+                        font-weight: 600;
+                    }
+                    .dropdown-menu{
+                        background-color: #000000;
+                        padding-right: 10px;
+                        .dropdown-item{
+                            color: #fff;
+                            transition: 0.3s;
+                            font-family: 'Montserrat', sans-serif;
+                            font-size: 16px;
+                            font-weight: 600;
+                            &:hover{
+                                background-color: #000000;
+                                transform: translateX(9px);
+                                transition: 0.3s;
+                            }
+                        }
+                    }
+                }
+                .dropdown:hover{
+                    .dropdown-menu{
+                        display: block;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (min-width:992px) {
+    .navbar .container .navbar-collapse .navbar-nav{
+        margin-left: 1rem;
+    }
+}
