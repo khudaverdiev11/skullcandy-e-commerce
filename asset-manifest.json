@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/skullcandy-e-commerce/static/css/main.04944571.chunk.css",
+    "main.js": "/skullcandy-e-commerce/static/js/main.ac01c72f.chunk.js",
+    "main.js.map": "/skullcandy-e-commerce/static/js/main.ac01c72f.chunk.js.map",
+    "runtime-main.js": "/skullcandy-e-commerce/static/js/runtime-main.39c53032.js",
+    "runtime-main.js.map": "/skullcandy-e-commerce/static/js/runtime-main.39c53032.js.map",
+    "static/css/2.33923823.chunk.css": "/skullcandy-e-commerce/static/css/2.33923823.chunk.css",
+    "static/js/2.603a7531.chunk.js": "/skullcandy-e-commerce/static/js/2.603a7531.chunk.js",
+    "static/js/2.603a7531.chunk.js.map": "/skullcandy-e-commerce/static/js/2.603a7531.chunk.js.map",
+    "static/js/3.eb01b661.chunk.js": "/skullcandy-e-commerce/static/js/3.eb01b661.chunk.js",
+    "static/js/3.eb01b661.chunk.js.map": "/skullcandy-e-commerce/static/js/3.eb01b661.chunk.js.map",
+    "index.html": "/skullcandy-e-commerce/index.html",
+    "static/css/2.33923823.chunk.css.map": "/skullcandy-e-commerce/static/css/2.33923823.chunk.css.map",
+    "static/css/main.04944571.chunk.css.map": "/skullcandy-e-commerce/static/css/main.04944571.chunk.css.map",
+    "static/js/2.603a7531.chunk.js.LICENSE.txt": "/skullcandy-e-commerce/static/js/2.603a7531.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/skullcandy-e-commerce/static/media/internationalmap.891265e4.jpg",
+    "static/media/Skullcandy Logo-1.ebd22b6e.svg": "/skullcandy-e-commerce/static/media/Skullcandy Logo-1.ebd22b6e.svg",
+    "static/media/jobapplication.51086fbe.jpg": "/skullcandy-e-commerce/static/media/jobapplication.51086fbe.jpg",
+    "static/media/mainphoto1.c67725a9.jpg": "/skullcandy-e-commerce/static/media/mainphoto1.c67725a9.jpg",
+    "static/media/mainphoto2.818e0916.jpg": "/skullcandy-e-commerce/static/media/mainphoto2.818e0916.jpg",
+    "static/media/mainphoto3.a771c780.jpg": "/skullcandy-e-commerce/static/media/mainphoto3.a771c780.jpg",
+    "static/media/ourculturefirst.87470efd.jpg": "/skullcandy-e-commerce/static/media/ourculturefirst.87470efd.jpg",
+    "static/media/ourculturesecond.39af94b8.jpg": "/skullcandy-e-commerce/static/media/ourculturesecond.39af94b8.jpg",
+    "static/media/ourculturethird.377d44ab.jpg": "/skullcandy-e-commerce/static/media/ourculturethird.377d44ab.jpg",
+    "static/media/outside.d325ffcd.jpg": "/skullcandy-e-commerce/static/media/outside.d325ffcd.jpg",
+    "static/media/photosection.a214326e.jpg": "/skullcandy-e-commerce/static/media/photosection.a214326e.jpg",
+    "static/media/trendingnow1.ce8c7e6e.jpg": "/skullcandy-e-commerce/static/media/trendingnow1.ce8c7e6e.jpg",
+    "static/media/trendingnow1hover.5d862e85.jpg": "/skullcandy-e-commerce/static/media/trendingnow1hover.5d862e85.jpg",
+    "static/media/trendingnow2.8e907bf5.jpg": "/skullcandy-e-commerce/static/media/trendingnow2.8e907bf5.jpg",
+    "static/media/trendingnow2hover.527b1e18.jpg": "/skullcandy-e-commerce/static/media/trendingnow2hover.527b1e18.jpg",
+    "static/media/trendingnow3.56ede421.jpg": "/skullcandy-e-commerce/static/media/trendingnow3.56ede421.jpg",
+    "static/media/trendingnow3hover.726bb632.jpg": "/skullcandy-e-commerce/static/media/trendingnow3hover.726bb632.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39c53032.js",
+    "static/css/2.33923823.chunk.css",
+    "static/js/2.603a7531.chunk.js",
+    "static/css/main.04944571.chunk.css",
+    "static/js/main.ac01c72f.chunk.js"
+  ]
+}
